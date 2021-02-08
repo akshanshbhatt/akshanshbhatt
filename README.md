@@ -1,7 +1,7 @@
 ### Hi there 👋
-```
-##### 💻 Beep Boop 💻
-```
+
+##### 💻``` Beep Boop ```💻
+
 ##### 344406a4adb71374860dfa33da75068163be913832f299b7b58474ca50ab1561
 <!--
 **akshanshbhatt/akshanshbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
