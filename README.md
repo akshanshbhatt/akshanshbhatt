@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### **Some things about me:** 😄
+#### 😄 **Some things about me:**
 * ##### ```💻 Beep Boop 💻```
 * ##### ```🥴 Chaotic 🥴```
 * ##### ```🐌 Pro-Procrastinator™ 🐌```
