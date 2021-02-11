@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 😄 **Some things about me:**
-* ##### ```💻 Beep Boop 💻```
+* ##### ```💻 Beep-Boop 💻```
 * ##### ```🥴 Chaotic 🥴```
 * ##### ```🐌 Pro-Procrastinator™ 🐌```
 * ##### ```🧭 Explorer 🧭```
