@@ -1,12 +1,12 @@
 ### Hi there 👋
-
+<!--
 #### 😄 **Some things about me:**
 * ##### ```💻 Beep-Boop 💻```
 * ##### ```🥴 Chaotic 🥴```
 * ##### ```🐌 Pro-Procrastinator™ 🐌```
 * ##### ```🧭 Explorer 🧭```
 * ##### ```💭 Curious 💭```
-* ##### ```😊 Friendly 😊```
+* ##### ```😊 Friendly 😊``` -->
 <!--
 **akshanshbhatt/akshanshbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
