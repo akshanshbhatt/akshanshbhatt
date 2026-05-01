@@ -15,7 +15,7 @@ My name is Akshansh \(/əkʂɑːⁿɕ/[^1]\) and I'm a software nerd. I love wor
 
 - ☝🏼 Another ~fun~ fact: no genai tools were used to write this
 
-[^1]: it's pronounced like ~d~uck-shawn-sh~awn~ (cut it at second shawn's sh sound)
+[^1]: it's pronounced like ~y~uck-shaan-sh
 [^2]: it's not that cool, let's be honest
 <!--
 **akshanshbhatt/akshanshbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
