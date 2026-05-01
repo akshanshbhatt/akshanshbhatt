@@ -5,7 +5,7 @@ My name is Akshansh \(/əkʂɑːⁿɕ/[^1]\) and I'm a software nerd. I love wor
 - 🔭 I’m currently working on some cool project[^2]
 - 🌱 I’m currently learning about chunking and retrieval strategies
 - 👯 I’m looking for someone to collaborate with me on my cool project[^2]
-- 🤔 I’m looking for help with B2B SaaS maketing
+- 🤔 I’m looking for help with B2B SaaS marketing
 - 💬 Ask me about electronic music
 - 📫 How to reach me: email or ✉️
 - 😄 Pronouns: he/him
