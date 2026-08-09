@@ -7,6 +7,7 @@ My name is Akshansh \(/əkʂɑːⁿɕ/[^1]\) and I'm a software nerd. I love wor
 - 👯 I’m looking for someone to collaborate with me on my cool project[^2]
 - 🤔 I’m looking for help with B2B SaaS marketing
 - 💬 Ask me about electronic music
+- 📝 I write regularly at https://akshansh.me/blog
 - 📫 How to reach me: email or ✉️
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my profile image on gh is basically a plot of the polar equation-
