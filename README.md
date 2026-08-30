@@ -1,23 +1,20 @@
 ### Hi there 👋
 
-My name is Akshansh \(/əkʂɑːⁿɕ/[^1]\) and I'm a software nerd. I love working on complex problems. I also love open-source, and sometimes I contribute to projects here.
+My name is Akshansh \(`/əkʂɑːⁿɕ/`[^1]\) and I love working on hard problems. I also love open-source, and sometimes I contribute to projects here.
 
-- 🔭 I’m currently working on some cool project[^2]
-- 🌱 I’m currently learning about chunking and retrieval strategies
-- 👯 I’m looking for someone to collaborate with me on my cool project[^2]
-- 🤔 I’m looking for help with B2B SaaS marketing
+- 🔭 I’m currently building agents for document-based workflows
+- 🌱 I’m currently learning about harness engineering and graph databases
+- 👯 I’m looking for someone to collaborate with me on the product I'm building (hit me up)
+- 🤔 I’m looking for help with market research and gtm
 - 💬 Ask me about electronic music
 - 📝 I write regularly at https://akshansh.me/blog
-- 📫 How to reach me: email or ✉️
+- 📫 How to reach me: email or dm me on x
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: my profile image on gh is basically a plot of the polar equation-
+- ⚡ Fun fact: my cool looking profile image is basically a plot of the polar equation-
   
     $$r=\pi\theta\cos\left(\pi\theta-\frac{\pi}{9}\right)$$
 
-- ☝🏼 Another ~fun~ fact: no genai tools were used to write this
-
-[^1]: it's pronounced like ~y~uck-shaan-sh
-[^2]: it's not that cool, let's be honest - [learn more](https://www.akshansh.me/blog/russian-doll-problem)
+[^1]: it's pronounced uck-shaan-sh
 <!--
 **akshanshbhatt/akshanshbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
