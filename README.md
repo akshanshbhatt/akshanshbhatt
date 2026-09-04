@@ -11,7 +11,7 @@ My name is Akshansh \(`/əkʂɑːⁿɕ/`[^1]\) and I love working on hard proble
 - 📫 How to reach me: email or dm me on x
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my cool looking profile image is basically a plot of the polar equation-
-  
+
     $$r=\pi\theta\cos\left(\pi\theta-\frac{\pi}{9}\right)$$
 
 [^1]: it's pronounced uck-shaan-sh
