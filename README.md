@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Akshansh \(`/əkʂɑːⁿɕ/`[^1]\) and I love working on hard problems. I also love open-source, and sometimes I contribute to projects here.
+My name is Akshansh \(`/əkʂɑːⁿɕ/`\) and I love working on hard problems and open-source, and sometimes I contribute to projects here.
 
 <!--
 **akshanshbhatt/akshanshbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
